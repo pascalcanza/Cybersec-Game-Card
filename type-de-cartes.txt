@@ -1,0 +1,5 @@
+1 Risque menace ou évènement redouté
+2 Défense
+3 attaque
+4 Evenemet
+4 Définition

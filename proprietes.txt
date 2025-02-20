@@ -1,0 +1,29 @@
+1 Catégorie
+2 Référence
+3 Description du risque
+4 Conséquences possibles
+5 Mesures de mitigation
+6 Effet(Défense) 
+7 Contre-mesures
+8 Effet(Evenement)
+9 Description de l'evenement
+10 Maturité de l'attaque
+11 Maturité de la defense
+12 Complexité de l'attaque
+13 Effet de la carte
+14 Mécanique du jeu
+15 Système(s) affecté(s)
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29

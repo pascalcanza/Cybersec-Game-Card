@@ -1,0 +1,49 @@
+1
+Fuite de données sensibles
+
+2
+Risque
+
+3
+ISO 27002, ISO 27005, ITIL, NIS2, DORA, CRA
+
+4
+Une fuite de données sensibles peut survenir en raison d'une mauvaise gestion des accès, d'un vol de données, ou d'une attaque externe (ex. : ransomware, phishing). Ce risque impacte la confidentialité et l'intégrité des informations, entrainant des conséquences juridiques et financières.
+
+5 
+Amendes pour non-conformité aux régulations (NIS2, DORA, CRA),
+Perte de confiance des clients et partenaires,
+Exploitation des données volées à des fins malveillantes,
+Détérioration de la réputation de l'organisation.
+
+6
+ISO 27002 : Mise en place de contrôles d'accès stricts et d'une classification des données,
+ISO 27005 : Evaluation régulière des risques et tests de pénétration,
+ITIL : Processus de gestion des incidents et réponse rapide aux violations,
+NIS2/DORA : Mise en conformité avec les exigences de cybersécurité et de résilience,
+CRA : Surveillance continue et audits de sécurité réguliers.
+
+7
+Ransomware (Logiciel de rançon)
+
+8
+Un ransomware chiffre les fichiers d'un système informatique et exige une rançon pour les débloquer. Ce type d'attaque peut paralyser les opérations et entrainer des pertes financières majeures.
+
+9
+Interruption des services et impact opérationnel (DORA)
+Pertes financières dues au paiement de la rançon ou aux coûts de restauration des données
+Amendes pour non-conformité aux régulations (NIS2, CRA)
+Fuite potentielle de données sensibles (ISO 27002)
+
+10
+ISO 27002 : Mise en place de sauvegardes régulières et segmentation réseau
+ISO 27005 : Evaluation des menaces et plan de réponse aux incidents
+ITIL : Processus de gestion des incidents et reprise après sinistre
+NIS2/DORA : Surveillance renforcée et exigences de résilience
+CRA : Détection proactive des menaces et analyse des vulnérabilités
+
+11
+
+12
+
+13
